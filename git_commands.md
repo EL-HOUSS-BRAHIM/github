@@ -1,12 +1,12 @@
-# gitlab Tasks:
+# github Tasks:
 
-## Task 2: Create a new gitlab repository
+## Task 2: Create a new github repository
 ```bash
-git clone https://gitlab.com/EL-HOUSS-BRAHIM/gitlab.git
-cd gitlab
+git clone https://github.com/EL-HOUSS-BRAHIM/github.git
+cd github
 git branch -m master
 ```
-![gitlab Task2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github1.png)
+![github Task2](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github1.png?raw=true?raw=true)
 
 ---
 
@@ -18,7 +18,7 @@ git add .
 git commit -m "adding Task1 folder and the README file on the master branch"
 git push origin master
 ```
-![gitlab Task3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab2.png)
+![github Task3](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github2.png?raw=true)
 
 ---
 
@@ -30,7 +30,7 @@ git add .
 git commit -m "adding test file to the dev branch"
 git push --set-upstream origin HEAD
 ```
-![gitlab Task4](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab3.png)
+![github Task4](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github3.png?raw=true)
 
 ---
 
@@ -38,7 +38,7 @@ git push --set-upstream origin HEAD
 ```bash
 git checkout -b %USERNAME-new_feature
 ```
-![gitlab Task5](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab4.png)
+![github Task5](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github4.png?raw=true)
 
 ---
 
@@ -46,7 +46,7 @@ git checkout -b %USERNAME-new_feature
 ```bash
 touch README.md
 ```
-![gitlab Task6](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab5.png)
+![github Task6](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github5.png?raw=true)
 
 ---
 
@@ -54,7 +54,7 @@ touch README.md
 ```bash
 git status
 ```
-![gitlab Task7](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab6.png)
+![github Task7](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github6.png?raw=true)
 
 ---
 
@@ -62,17 +62,17 @@ git status
 ```bash
 echo ".*" > .gitignore
 ```
-![gitlab Task8](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab7.png)
+![github Task8](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github7.png?raw=true)
 
 ---
 
-## Task 9: Commit and push changes to the gitlab repo.
+## Task 9: Commit and push changes to the github repo.
 ```bash
 git add -f .
 git commit -m "adding readme and gitignore file %USERNAME-new_feature"
 git push --set-upstream origin HEAD
 ```
-![gitlab Task9](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab8.png)
+![github Task9](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github8.png?raw=true)
 
 ---
 
@@ -80,7 +80,7 @@ git push --set-upstream origin HEAD
 ```bash
 #No commands here!
 ```
-![gitlab Task10](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab.png)
+![github Task10](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github.png?raw=true)
 
 ---
 
@@ -95,8 +95,8 @@ git branch --unset-upstream
 git merge dev
 git push origin HEAD
 ```
-![gitlab Task11-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab9.png)
-![gitlab Task11-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab10.png)
+![github Task11-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github9.png?raw=true)
+![github Task11-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github10.png?raw=true)
 
 ---
 
@@ -108,7 +108,7 @@ git add .
 git commit -m "editing the README file on the %USERNAME-new_feature branch"
 git revert HEAD
 ```
-![gitlab Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab11.png)
+![github Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github11.png?raw=true)
 
 ---
 
@@ -121,7 +121,7 @@ git add log.txt
 git commit -m "Save git log output to log.txt"
 git push origin HEAD
 ```
-![gitlab Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab12.png)
+![github Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github12.png?raw=true)
 
 ---
 
@@ -130,12 +130,13 @@ git push origin HEAD
 git branch -D %USERNAME-new_feature
 git push origin --delete %USERNAME-new_feature
 ```
-![gitlab Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/gitlab13.png)
+![github Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/images/images/github13.png?raw=true)
 
 ---
 
 ## Task 15: Add all used commands to git_commands.md in the dev branch.
 ```bash
 #No commands on this step!
-#this file is the last step
+#This file is task 15
 ```
+
