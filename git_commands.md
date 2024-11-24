@@ -80,15 +80,24 @@ git push --set-upstream origin HEAD
 ```bash
 #No commands here!
 ```
-<p>chouse the branch as you see on image </p>
+<p>Choose the branch as you see in the image below:</p>
+
 ![github Task10-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github9.png)
-<p>now create the merge request, next do the merge on terminal as the next step and come back for the next merge request</p>
+
+<p>Now create the merge request. Next, do the merge in the terminal as the next step and come back for the next merge request:</p>
+
 ![github Task10-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github10.png)
-<p>now chouse the branches for the merge as the image show</p>
+
+<p>Now choose the branches for the merge as shown in the image below:</p>
+
 ![github Task10-3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github12.png)
-<p>now create the merge request</p>
+
+<p>Now create the merge request:</p>
+
 ![github Task10-4](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github13.png)
-<p>you will see this image it meed the branch has been merged</p>
+
+<p>You will see this image indicating that the branch has been merged:</p>
+
 ![github Task10-5](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github15.png)
 
 ---
