@@ -80,8 +80,22 @@ git push --set-upstream origin HEAD
 ```bash
 #No commands here!
 ```
-![gitlab Task10](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github.png)
-
+<p>first open your repo and click on Merge requests</p>
+![gitlab Task10-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github9.png)
+<p>next click on New Merge request </p>
+![gitlab Task10-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github10.png)
+<p>chouse the branch as you see on image </p>
+![gitlab Task10-3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github11.png)
+<p>now create the merge request, next do the merge on terminal as the next step and come back for the next merge request</p>
+![gitlab Task10-4](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github12.png)
+<p>after the commands you will see this image it meed the branches has been merged</p>
+![gitlab Task10-6](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github14.png)
+<p>now chouse the branches for the merge as the image show</p>
+![gitlab Task10-7](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github15.png)
+<p>now create the merge request</p>
+![gitlab Task10-8](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github16.png)
+<p>now go to the next step to continue the merge commands </p>
+![gitlab Task10-8](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github22.png)
 ---
 
 ## Task 11: Merge %USERNAME-new_feature with dev and create an MR to master. Merge dev with master.
@@ -95,8 +109,8 @@ git branch --unset-upstream
 git merge dev
 git push origin HEAD
 ```
-![gitlab Task11-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github9.png)
-![gitlab Task11-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github10.png)
+![gitlab Task11-1](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github13.png)
+![gitlab Task11-2](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github17.png)
 
 ---
 
@@ -108,7 +122,7 @@ git add .
 git commit -m "editing the README file on the %USERNAME-new_feature branch"
 git revert HEAD
 ```
-![gitlab Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github11.png)
+![gitlab Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github18.png)
 
 ---
 
@@ -121,7 +135,7 @@ git add log.txt
 git commit -m "Save git log output to log.txt"
 git push origin HEAD
 ```
-![gitlab Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github12.png)
+![gitlab Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github19.png)
 
 ---
 
@@ -130,7 +144,7 @@ git push origin HEAD
 git branch -D %USERNAME-new_feature
 git push origin --delete %USERNAME-new_feature
 ```
-![gitlab Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github13.png)
+![gitlab Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github20.png)
 
 ---
 
@@ -139,3 +153,4 @@ git push origin --delete %USERNAME-new_feature
 #No commands on this step!
 #this file is the last step
 ```
+![gitlab Task3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github21.png)
