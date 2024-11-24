@@ -115,7 +115,7 @@ git add .
 git commit -m "editing the README file on the %USERNAME-new_feature branch"
 git revert HEAD
 ```
-![github Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github15.png)
+![github Task12](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github16.png)
 
 ---
 
@@ -128,7 +128,7 @@ git add log.txt
 git commit -m "Save git log output to log.txt"
 git push origin HEAD
 ```
-![github Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github16.png)
+![github Task13](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github17.png)
 
 ---
 
@@ -137,7 +137,7 @@ git push origin HEAD
 git branch -D %USERNAME-new_feature
 git push origin --delete %USERNAME-new_feature
 ```
-![github Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github17.png)
+![github Task14](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github18.png)
 
 ---
 
@@ -146,4 +146,4 @@ git push origin --delete %USERNAME-new_feature
 #No commands on this step!
 #this file is the last step
 ```
-![github Task3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github18.png)
+![github Task3](https://github.com/EL-HOUSS-BRAHIM/git/blob/master/images/github19.png)
