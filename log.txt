@@ -1,0 +1,17 @@
+commit a83eee95095b0b18d28fa611d1ce925cd1b05155
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Sun Nov 24 16:01:20 2024 +0100
+
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit ce68c0efea3e3469afa5e895343796b8b74a1d21
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Sun Nov 24 15:58:39 2024 +0100
+
+    adding test file to the dev branch
+
+commit 528dbdff040d9796cd74eef88d46b7d0a0ffdd33
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Sun Nov 24 15:57:36 2024 +0100
+
+    adding Task1 folder and the README file on the master branch
